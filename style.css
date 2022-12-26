@@ -41,4 +41,27 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer {
+    background-color: #fff;
+    border-top: none;
+}
+#subscribe {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    height: 300px;
+}
+#subscribe h5 {
+    color: gray;
+}
+input.form-control {
+    margin-bottom: 15px;
+}
+footer small {
+    text-align: center;
+    margin-top: 150px;
+    color: #a2a0a0;
+    display: block;
 }
